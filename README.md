@@ -241,4 +241,4 @@ This repository serves as the official landing page for Oracle Application Expre
 **Get the most recent version of Oracle Application Express today!**
 
 ---
-**Last updated:** 2026-09-18 21:26:49 UTC
+**Last updated:** 2026-09-18 23:55:27 UTC
